@@ -32,7 +32,7 @@
 ---
 
 ## Screenshot
-![استمع - Quran Audio Player](https://github.com/your-username/your-repository-name/blob/main/image.png?raw=true)
+![استمع - Quran Audio Player]([https://github.com/your-username/your-repository-name/blob/main/image.png](https://github.com/Ahm3d0x/-Quran-audio-player-built-with-HTML-CSS-and-JavaScript.-/blob/main/image.png)?raw=true)
 
 ---
 
